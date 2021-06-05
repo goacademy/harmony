@@ -1,3 +1,3 @@
 # Overview
 
-elastic allow you to break your complex workflow to simple and independent tasks.
+harmony is a go library that orchestrates complex workflow to ensure a state of consistency.
